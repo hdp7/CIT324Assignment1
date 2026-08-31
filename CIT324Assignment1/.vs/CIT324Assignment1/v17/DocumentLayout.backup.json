@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "H:\\Github\\CIT324Assignment1\\CIT324Assignment1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6AA99B84-F2FF-37C3-20DC-9D5B6A8D1504}|Assembly-CSharp.csproj|H:\\Github\\CIT324Assignment1\\CIT324Assignment1\\assets\\maketerrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6AA99B84-F2FF-37C3-20DC-9D5B6A8D1504}|Assembly-CSharp.csproj|solutionrelative:assets\\maketerrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6AA99B84-F2FF-37C3-20DC-9D5B6A8D1504}|Assembly-CSharp.csproj|H:\\Github\\CIT324Assignment1\\CIT324Assignment1\\assets\\perlin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AA99B84-F2FF-37C3-20DC-9D5B6A8D1504}|Assembly-CSharp.csproj|solutionrelative:assets\\perlin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AA99B84-F2FF-37C3-20DC-9D5B6A8D1504}|Assembly-CSharp.csproj|h:\\github\\cit324assignment1\\cit324assignment1\\assets\\perlin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6AA99B84-F2FF-37C3-20DC-9D5B6A8D1504}|Assembly-CSharp.csproj|solutionrelative:assets\\perlin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6AA99B84-F2FF-37C3-20DC-9D5B6A8D1504}|Assembly-CSharp.csproj|h:\\github\\cit324assignment1\\cit324assignment1\\assets\\maketerrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AA99B84-F2FF-37C3-20DC-9D5B6A8D1504}|Assembly-CSharp.csproj|solutionrelative:assets\\maketerrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,26 +30,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Perlin.cs",
               "DocumentMoniker": "H:\\Github\\CIT324Assignment1\\CIT324Assignment1\\Assets\\Perlin.cs",
               "RelativeDocumentMoniker": "Assets\\Perlin.cs",
               "ToolTip": "H:\\Github\\CIT324Assignment1\\CIT324Assignment1\\Assets\\Perlin.cs",
               "RelativeToolTip": "Assets\\Perlin.cs",
-              "ViewState": "AgIAAEgCAAAAAAAAAAAwwG8CAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-31T17:34:34.933Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MakeTerrain.cs",
               "DocumentMoniker": "H:\\Github\\CIT324Assignment1\\CIT324Assignment1\\Assets\\MakeTerrain.cs",
               "RelativeDocumentMoniker": "Assets\\MakeTerrain.cs",
               "ToolTip": "H:\\Github\\CIT324Assignment1\\CIT324Assignment1\\Assets\\MakeTerrain.cs",
               "RelativeToolTip": "Assets\\MakeTerrain.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA4AAABtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-31T17:18:43.151Z",
               "EditorCaption": ""
